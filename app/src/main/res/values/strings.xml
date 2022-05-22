@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kelompok</string>
+    <string name="cari_barang">Cari Barang</string>
+    <string name="daftar_barang">Daftar Barang</string>
+    <string name="daftar_barang_di_toko_sparepart_kami">Daftar Barang di Toko Sparepart Kami</string>
+    <string name="tambah_barang">Tambah Barang</string>
+</resources>
